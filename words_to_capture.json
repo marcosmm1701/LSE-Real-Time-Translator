@@ -1,0 +1,46 @@
+{
+  "palabras": [
+    "YO", "TU", "EL-ELLA", "NOSOTROS", "VOSOTROS", "ELLOS-ELLAS", "NOMBRE", "MUSCULO",
+    "HOLA-ADIOS", "GRACIAS", "DE_NADA", "POR_FAVOR", "PERDON", "BUENOS_DIAS", "BUENAS_TARDES", "BUENAS_NOCHES",
+    "QUE", "QUIEN", "DONDE", "CUANDO", "POR_QUE", "COMO", "CUANTO",
+    "PERSONA", "FAMILIA", "MAMA", "PAPA", "AMIGO-A", "HIJO-A", "HERMANO-A", "ABUELO-A", "NINO-A", "HOMBRE", "MUJER",
+    "DIA", "NOCHE", "HOY", "MANANA", "AYER", "SEMANA", "MES", "ANO", "HORA", "AHORA", "ANTES", "DESPUES", "PRONTO", "TARDE",
+    "CASA", "TRABAJO", "UNIVERSIDAD", "HOSPITAL", "TIENDA", "BANO", "COCHE", "DINERO",
+    "TENER", "NECESITAR", "IR", "PODER", "QUERER", "ENTENDER", "AYUDAR", "COMER", "BEBER", "ESTUDIAR", "LLAMAR",
+    "SI", "NO", "BIEN", "MAL", "MUCHO", "POCO"
+  ],
+
+  "alfabeto": [
+    "SIN_SIGNO",
+    "A",
+    "B",
+    "C",
+    "CH",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "LL",
+    "M",
+    "N",
+    "Ñ",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "RR",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z"
+  ]
+}
